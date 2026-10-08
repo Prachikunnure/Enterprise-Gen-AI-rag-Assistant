@@ -1,0 +1,13 @@
+venv/
+.env
+**/__pycache__/
+*.pyc
+.streamlit/
+data/uploads/*
+!data/uploads/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+.DS_Store
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
